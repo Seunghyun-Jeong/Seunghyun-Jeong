@@ -33,10 +33,6 @@ Java와 Spring Boot로 SNS 서비스를 만들며 공부 중이고,
 
 - **[practice-sns](https://github.com/Seunghyun-Jeong/practice-sns)** — Spring Boot 기반 SNS 서비스 (JWT 인증, 피드, 팔로우, WebSocket DM, 테스트 35개)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seunghyun-Jeong&show_icons=true&theme=default)
-
 ## 📝 Blog
 
 [개발 블로그 (Notion)](https://seunghyun-blog.notion.site/90bc2da92c364613b6a8f4c18e4c9f40)
