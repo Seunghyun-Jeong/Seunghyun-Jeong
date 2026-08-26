@@ -22,6 +22,12 @@
 |---|---|---|
 | [practice-sns](https://github.com/Seunghyun-Jeong/practice-sns) | JWT 인증, 피드, 팔로우, WebSocket DM을 갖춘 SNS. 쿼리 최적화로 조회 약 90% 감소, 테스트 35개 작성 | Java, Spring Boot, MySQL |
 
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Seunghyun-Jeong&theme=tokyonight&hide_border=true&locale=ko" height="170"/>
+
 </div>
 
 <div align="center">
