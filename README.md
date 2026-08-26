@@ -1,18 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&text=Seunghyun%20Jeong&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descAlign=50)
-
+![header](https://svg-banners.vercel.app/api?type=glitch&text1=Seunghyun&width=800&height=300)
 </div>
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=F89820"/> <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring%20Security-000000?style=for-the-badge&logo=springsecurity&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=hibernate&logoColor=BCAE79"/> <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=844FBA"/> <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D24939"/> <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=E6522C"/> <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F46800"/>
 
 </div>
 
@@ -26,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Seunghyun-Jeong&theme=default&hide_border=true&locale=ko" height="170"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Seunghyun-Jeong&theme=highcontrast&hide_border=true&locale=ko" height="170"/>
 
 </div>
 
@@ -38,6 +37,5 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
+![footer](https://svg-banners.vercel.app/api?type=glitch&text1=Backend&width=800&height=200)
 </div>
