@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Seunghyun-Jeong&theme=tokyonight&hide_border=true&locale=ko" height="170"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Seunghyun-Jeong&theme=default&hide_border=true&locale=ko" height="170"/>
 
 </div>
 
