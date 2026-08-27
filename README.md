@@ -15,11 +15,13 @@
 
 </div>
 
+<br/>
+
 ## 📌 Projects
 
 <div align="center">
 
-<a href="https://github.com/Seunghyun-Jeong/practice-sns"><img src="https://img.shields.io/badge/📦 practice--sns-000000?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
+<a href="https://github.com/Seunghyun-Jeong/practice-sns"><img src="https://img.shields.io/badge/practice--sns-000000?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
 
 **JWT 인증, 피드, 팔로우, WebSocket DM을 갖춘 SNS**
 
@@ -29,6 +31,8 @@
 
 </div>
 
+<br/>
+
 ## 📊 Stats
 
 <div align="center">
@@ -37,25 +41,22 @@
 
 </div>
 
+<br/>
+
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-🌆 Daytime                317 commits         ██████████░░░░░░░░░░░░░░░   38.38 % 
-🌃 Evening                263 commits         ████████░░░░░░░░░░░░░░░░░   31.84 % 
-🌙 Night                  114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-```
-
-
-
 <!--END_SECTION:waka-->
+
+<br/>
+
+## 🔗 Links
 
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Notion%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://seunghyun-blog.notion.site/90bc2da92c364613b6a8f4c18e4c9f40)
 
 </div>
+
+<br/>
 
 <div align="center">
 
