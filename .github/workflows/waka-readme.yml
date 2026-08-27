@@ -15,10 +15,14 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          # 켜는 것: 시간대별 커밋 그래프
+          # 켜는 것: 시간대별 커밋 그래프 (I'm an Early 🐤)
           SHOW_COMMIT: "True"
 
-          # 나머지는 전부 끄기
+          # AI Coding 섹션 끄기
+          SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
+
+          # 나머지 전부 끄기
           SHOW_SHORT_INFO: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
