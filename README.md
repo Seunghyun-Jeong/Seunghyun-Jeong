@@ -44,6 +44,17 @@
 <br/>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+🌆 Daytime                318 commits         ██████████░░░░░░░░░░░░░░░   38.45 % 
+🌃 Evening                263 commits         ████████░░░░░░░░░░░░░░░░░   31.80 % 
+🌙 Night                  114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+```
+
+
+
 <!--END_SECTION:waka-->
 
 <br/>
