@@ -37,6 +37,9 @@
 
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Notion%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://seunghyun-blog.notion.site/90bc2da92c364613b6a8f4c18e4c9f40)
