@@ -13,12 +13,12 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIMEZONE: "Asia/Seoul"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           # 켜는 것: 시간대별 커밋 그래프
           SHOW_COMMIT: "True"
 
-          # 나머지는 전부 끄기 (WakaTime 키 없이 동작시키기 위함)
+          # 나머지는 전부 끄기
           SHOW_SHORT_INFO: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
