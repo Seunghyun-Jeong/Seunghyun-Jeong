@@ -25,7 +25,7 @@
 
 **JWT 인증, 피드, 팔로우, WebSocket DM을 갖춘 SNS**
 
-쿼리 최적화로 조회 약 90% 감소, 서비스와 API 테스트 35개 작성
+쿼리 최적화로 조회 약 90% 감소, 서비스와 API 테스트 58개 작성
 
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=F89820"/> <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
 
