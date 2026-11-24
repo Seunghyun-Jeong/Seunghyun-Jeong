@@ -21,11 +21,11 @@
 
 <div align="center">
 
-<a href="https://github.com/Seunghyun-Jeong/practice-sns"><img src="https://img.shields.io/badge/practice--sns-000000?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
+<a href="https://github.com/Seunghyun-Jeong/outplanetton"><img src="https://img.shields.io/badge/outplanetton-000000?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
 
 **JWT 인증, 피드, 팔로우, 알림, 검색, DM, 신고 기능을 갖춘 SNS 서비스**
 
-피드 조회 쿼리 321회에서 5회(게시글 100건 기준), 조회 시간 284ms에서 0.07ms(30만 건 MySQL 기준), 테스트 191개
+피드 조회 쿼리 321회에서 5회(게시글 100건 기준), 조회 시간 284ms에서 0.07ms(30만 건 MySQL 기준), 테스트 202개
 
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=F89820"/> <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
 
